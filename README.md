@@ -1,4 +1,4 @@
-# ISLS Repository and supplements (1995-2020)
+# ISLS Repository and supplements (1995-2021)
 This is a repository that curates data sets and data processing processes related to the following research publication:
 
 Zheng, Y., Zhou, Z., Chen, J. & Blikstein, P. (2023). Outside-in, Inside-out, or Outside-out? Exploring the Flow of New Ideas and the Development of CSCL and ICLS via Co-Authorship Networks from 1995 to 2020. In *Proceedings of the 16th International Conference on Computer Supported Collaborative Learning-CSCL 2023*. International Society of the Learning Sciences.
